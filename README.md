@@ -3,4 +3,4 @@
 
 <p> HTML CSS VE BOOTSTRAP KULLANILARAK HAZIRLANMISTIR.
 
-![]{bs.gif}
+![](bs.gif)
